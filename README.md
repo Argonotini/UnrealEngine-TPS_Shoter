@@ -25,14 +25,14 @@
 
 ##
 [![T-1.png](https://i.postimg.cc/qMNt1LCn/T-1.png)](https://postimg.cc/fJhTLYCT)
-![alt text](https://postimg.cc/fJhTLYCT)
-![alt text](https://mega.nz/file/9FdHRYjL#68U_IVGWKz06zWORS7cGsOKEAoE02XchYVo2YNf3JaE)
-![alt text](https://mega.nz/file/RUUBkSCD#9oAqzrAemdeeF-e7DW8rl2I_tvr1dhu4iEgb6T25Rv8)
-![alt text](https://mega.nz/file/1BM1CS5L#tJX-Y_JKN4eI1AZR98p7sZMEIUoP_u0-a5oNbv8eVNE)
-![alt text](https://mega.nz/file/tBVBUKYb#vCxehPD2U_CE57ib2749UliQOeouoOcQLidjBnhMqVM)
-![alt text](https://mega.nz/file/tBVBUKYb#vCxehPD2U_CE57ib2749UliQOeouoOcQLidjBnhMqVM)
-![alt text](https://mega.nz/file/FUEHkaYR#PIAQLObUSr2O94cYixdYlTD_-h0JEZ-edHvRYs9_YvA)
-![alt text](https://mega.nz/file/hYdTWADD#jZV0CcOMUi69vJ3A7ZD8tfAV_AsOwbQT965N8qZOETo)
+[![T-2.png](https://i.postimg.cc/MpRnSp5p/T-2.png)](https://postimg.cc/18mm0Pbk)
+[![T-3.png](https://i.postimg.cc/YqTvZW1P/T-3.png)](https://postimg.cc/ZCFYy0sP)
+[![T-4.png](https://i.postimg.cc/vmscHw2L/T-4.png)](https://postimg.cc/k2TnfzmB)
+[![T-5.png](https://i.postimg.cc/hG1hXZHF/T-5.png)](https://postimg.cc/d7DJX6sn)
+[![T-6.png](https://i.postimg.cc/sxNMVBbv/T-6.png)](https://postimg.cc/tnFqkgqj)
+[![T-7.png](https://i.postimg.cc/nzVrBYJX/T-7.png)](https://postimg.cc/hJwKqmhn)
+[![T-8.png](https://i.postimg.cc/v8qg7jDb/T-8.png)](https://postimg.cc/z3hG8xnc)
+[![T-9.png](https://i.postimg.cc/Bb6895Yr/T-9.png)](https://postimg.cc/Kk6ctTyf)
 
 ##
 Доступ к исходникам данного проекта и их использование регулируются [Unreal Engine End User License Agreement](https://www.unrealengine.com/eula)
