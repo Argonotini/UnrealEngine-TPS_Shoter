@@ -9,8 +9,6 @@
 [Готовый билд игры](https://mega.nz/folder/sZU3RYSZ#-0wXdqgals5d7XvUANUBQQ)
 
 ## В проекте были задействованы такие компоненты как:
-  - **Архитектура UE**
-    - Game framework, Unreal Build Tool, Garbage collector
   - **Aнимации**
     - Animation Blueprint, Blend Space, FABRIK, Aim Offset, Anim Notify
   - **Искусственный интеллект**
