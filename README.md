@@ -24,7 +24,7 @@
   - И немножко лвл дизайна)
 
 ##
-![![T-1.png](https://i.postimg.cc/qMNt1LCn/T-1.png)](https://postimg.cc/fJhTLYCT)
+[![T-1.png](https://i.postimg.cc/qMNt1LCn/T-1.png)](https://postimg.cc/fJhTLYCT)
 ![alt text](https://postimg.cc/fJhTLYCT)
 ![alt text](https://mega.nz/file/9FdHRYjL#68U_IVGWKz06zWORS7cGsOKEAoE02XchYVo2YNf3JaE)
 ![alt text](https://mega.nz/file/RUUBkSCD#9oAqzrAemdeeF-e7DW8rl2I_tvr1dhu4iEgb6T25Rv8)
